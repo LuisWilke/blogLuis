@@ -1,14 +1,14 @@
 +++
-title = '🌱 Meu primeiro post'
+title = '🌱 My First post'
 date = 2024-09-16T22:01:58-03:00
 draft = false
 
-author = "[Seu nome]"
+author = "Luis Eduardo"
 showToc = true
 TocOpen = false
 hidemeta = false
 comments = false
-description = "Meu primeiro post"
+description = "My First post"
 canonicalURL = "https://canonical.url/to/page"
 disableHLJS = true # to disable highlightjs
 disableShare = false

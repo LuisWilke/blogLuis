@@ -13,15 +13,15 @@ params:
 
   socialIcons:
   - name: github
-    url: 'https://github.com/[Seu nome]'
+    url: 'https://github.com/LuisWilke'
   - name: youtube
     url: 'https://www.youtube.com/[Seu nome]'
   - name: twitter
     url: 'https://twitter.com/[Seu nome]'
   - name: instagram
-    url: 'https://www.instagram.com/[Seu nome]'
+    url: 'https://www.instagram.com/luiss_wilke'
   - name: other
-    url: 'https://bento.me/[Seu nome]'
+    url: 'https://bento.me/luisswilke'
 
   assets:
     # disableHLJS: true # to disable highlight.js
